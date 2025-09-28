@@ -35,7 +35,7 @@ An unusually affordable Swiss automatic. Doesn't look much from the back; but of
 
 This is a clone of an ETA 6497 and you can pick them up very cheaply fully built on eBay. However, where's the fun in that if you can build it yourself?! There's also a similar version with the seconds at 6 o'clock: the ST3620.
 
-See one of my [complete builds](complete.md#st3600).
+See one of my [complete builds](complete.md#st3600-bigdeano-28-august-2023).
 
 ![ST3600 front](st3600_front.jpg)
 
