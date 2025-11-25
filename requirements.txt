@@ -1,2 +1,5 @@
 mkdocs-material>=9.0.0
 mkdocs-glightbox>=0.3.0
+mkdocs-cinder
+mkdocs-windmill
+mkdocs-nature
