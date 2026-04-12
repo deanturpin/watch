@@ -18,7 +18,6 @@ Often less than £1000, using mass-produced movements; which is often looked dow
 - [CAP](https://en.cap-watch.com/): sustainability, recycled materials
 - [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber): mechanical smartwatch
 - [Baltany](https://baltany.co.uk/): inexpensive, some nice vintage styling
-- [Extropian](https://www.extropian.co/watches): lots of micros
 - [Detrash](https://detrash.com/collections/all): made with recycled materials
 - [Apollo](https://www.kickstarter.com/projects/watchesovd/nasa-x-ovd-i-apollo-tourbillon-watch)
 
